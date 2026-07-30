@@ -4,7 +4,7 @@
 
 **Software Engineer · Go, TypeScript, Python**
 
-*AI / Agentic RAG / LLMs · Flutter · Addis Ababa, Ethiopia*
+*Backend · AI / Agentic RAG / LLMs · Flutter · Addis Ababa, Ethiopia*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannes-solomon-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:solomonjohna21@gmail.com)
