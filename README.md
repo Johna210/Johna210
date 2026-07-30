@@ -58,17 +58,6 @@ Production-style Go backend with JWT authentication, rate limiting, middleware c
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johna210&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johna210&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🎓 Background
 
 🎓 AAiT/CTBE '26 — Software Engineering, AI Stream
