@@ -31,7 +31,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🏆 [Adisu Serategna](https://github.com/Johna210/Final-Year-Project-G22) — Bilingual Agentic RAG Platform
+#### 🏆 [Adisu Serategna](https://github.com/Final-Year-Project-G22) — Bilingual Agentic RAG Platform
 A bilingual (Amharic + English) agentic RAG platform helping Ethiopian entrepreneurs navigate business formalization. ReAct agent in Python/FastAPI orchestrates tool-calling across Gemini + Cohere with pgVector retrieval over 500+ business documents.
 - **Stack:** Go (Gin) · Python (FastAPI) · Flutter · Next.js · gRPC · RabbitMQ · pgVector
 - **Status:** ✅ Defended as capstone, July 2026. Public repo with screenshots + demo video.
